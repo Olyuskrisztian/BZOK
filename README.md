@@ -4,6 +4,7 @@
 
 * Ölyüs Krisztián (pm)
 * Budai Zoltán
+* Kasza Kitti
 
 ---
 
