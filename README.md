@@ -42,7 +42,7 @@ A pécsi telephely az ügyfélszolgálatért és az értékesítésért felel. A
 * Vezetői iroda
 * Tárgyaló
 
-### 3. Debreceni szervizközpont
+### 3. Rotterdam szervizközpont
 
 A debreceni telephelyen történik a számítógépek javítása, karbantartása és az alkatrészek raktározása.
 
