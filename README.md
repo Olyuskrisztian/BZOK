@@ -13,7 +13,7 @@
 
 A ReworkTech Kft. egy informatikai vállalat, amely számítógépes hálózatok tervezésével és kiépítésével, számítógépek javításával, valamint informatikai támogatással foglalkozik. A cég célja, hogy ügyfelei számára megbízható és biztonságos informatikai megoldásokat biztosítson.
 
-A vállalat összesen **20 alkalmazottat** foglalkoztat, akik különböző részlegeken dolgoznak, például vezetőség, adminisztráció, ügyfélszolgálat, szerviz és informatikai részleg. A cég négy telephelyen működik Magyarországon: Budapesten található a központi iroda, emellett Pécsen, Rotterdamban és Szegeden is rendelkezik irodával.
+A vállalat összesen **20 alkalmazottat** foglalkoztat, akik különböző részlegeken dolgoznak, például vezetőség, adminisztráció, ügyfélszolgálat, szerviz és informatikai részleg. A cég négy telephelyen működik : Budapesten található a központi iroda, emellett Bécsben, Rotterdamban és Szegeden is rendelkezik irodával.
 
 A ReworkTech Kft. modern hálózati eszközöket használ, és nagy hangsúlyt fektet a gyors, biztonságos és megbízható működésre. A telephelyeket egy közös vállalati hálózat köti össze, így az alkalmazottak könnyen elérhetik a szükséges adatokat és szolgáltatásokat.
 
@@ -31,9 +31,9 @@ Ez a vállalat központja, ahol a vezetőség, az adminisztráció és a szerver
 * Informatikai iroda
 * Szerverhelyiség
 
-### 2. Pécsi iroda
+### 2. Bécsi iroda
 
-A pécsi telephely az ügyfélszolgálatért és az értékesítésért felel. A munkatársak itt fogadják az ügyfeleket és kezelik a megrendeléseket.
+A bécsi telephely az ügyfélszolgálatért és az értékesítésért felel. A munkatársak itt fogadják az ügyfeleket és kezelik a megrendeléseket.
 
 **Helyiségek:**
 
@@ -44,7 +44,7 @@ A pécsi telephely az ügyfélszolgálatért és az értékesítésért felel. A
 
 ### 3. Rotterdam szervizközpont
 
-A debreceni telephelyen történik a számítógépek javítása, karbantartása és az alkatrészek raktározása.
+A rotterdami telephelyen történik a számítógépek javítása, karbantartása és az alkatrészek raktározása.
 
 **Helyiségek:**
 
